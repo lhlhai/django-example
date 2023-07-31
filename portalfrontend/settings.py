@@ -23,7 +23,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'templates')
 SECRET_KEY = 'django-insecure-jmfx^ff!8j5idm-ss0b5xn320l$fg(wdh*pk_-q*oh8%rvak+a'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ["*"]
 
